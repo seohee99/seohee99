@@ -4,6 +4,9 @@
 - 🔭 Major : Software
 - 🌱 Interest : Data Engineer & Backend Developer
 
+
+
+
 ## 🖥️ Skills
 - [Programming language] : ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 - [BigData] : ![Hive](https://img.shields.io/badge/-Hive-FBAF00?style=flat&logo=Apache-Hive&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=Apache-S) ![Impala](https://img.shields.io/badge/-Impala-5B4638?style=flat&logo=Apache-Impala&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache-Airflow&logoColor=white)
