@@ -16,3 +16,5 @@
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 - [Communication] : ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee99&layout=compact)
+
