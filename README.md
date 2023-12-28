@@ -7,7 +7,7 @@
 ## 🖥️ Skills
 - [Programming language] : ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 - [BigData] : ![Hive](https://img.shields.io/badge/-Hive-FBAF00?style=flat&logo=Apache-Hive&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=Apache-S) ![Impala](https://img.shields.io/badge/-Impala-5B4638?style=flat&logo=Apache-Impala&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache-Airflow&logoColor=white)
-- [Frontend] : ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+- [Frontend] : ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
 - [Backend] : ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 - [DB] : ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
