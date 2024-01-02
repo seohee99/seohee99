@@ -4,9 +4,9 @@
 ## 🙋‍♀️ About Me
 - 🔭 Major : Software
 - 🌱 Interest : Data Engineer & Backend Developer
-- 🏆 goal : An independent developer
-- 🗣️ Philosophy : I won't grow up alone
-- 🚶 The developer I want to be : Developers who are faithful to the basics, developers who are growing steadily
+- 🏆 Goal : Steadily Grow Step By Step
+- 🧠 Philosophy : Go The Distance & Knock It Out Of The Park
+- 👩‍💻 The developer I want to be : A Needed Developer & Desired To Work With💁‍♀️
 
 
 ## 🖥️ Skills
