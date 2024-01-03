@@ -8,6 +8,7 @@
 - 🧠 Philosophy : Go The Distance & Knock It Out Of The Park
 - 👩‍💻 The developer I want to be : A Needed Developer & Desired To Work With💁‍♀️
 
+- 🏷️ Final Vocabulary : Exceed
 
 ## 🖥️ Skills
 - Programming language : ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
