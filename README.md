@@ -1,14 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=300&section=header&text=Hi👋%20I'm%20seo%20hee&fontSize=50&animation=fadeIn&fontAlignY=30&desc=🐥I'm%20Consistently%20Growing%20Developer🤓&descAlignY=51&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=300&section=header&text=Hi👋%20I'm%20seohee&fontSize=50&animation=fadeIn&fontAlignY=30&desc=🐥Consistently%20Growing%20Developer🤓&descAlignY=51&descAlign=50)
 
 
 ## 🙋‍♀️ About Me
 - 🔭 Major : Software
 - 🌱 Interest : Data Engineer & Backend Developer
-- 🏆 Goal : Steadily Grow Step By Step
+<!-- - 🏆 Goal : Steadily Grow Step By Step 
 - 🧠 Philosophy : Go The Distance & Knock It Out Of The Park
 - 👩‍💻 The developer I want to be : A Needed Developer & Desired To Work With💁‍♀️
 
-- 🏷️ Final Vocabulary : Exceed
+- 🏷️ Final Vocabulary : Exceed -->
+
+<br>
+<br>
 
 ## 🖥️ Skills
 - Programming language : ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
@@ -20,8 +23,12 @@
 - AI : ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 - Communication : ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 
+<br>
+<br>
 
 ## About GitHub
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee99&layout=compact)](https://github.com/seohee99/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohee99&hide=contribs,prs&show_icons=true&theme=rose_pine) -->
 
 <a href="https://github.com/seohee99"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
