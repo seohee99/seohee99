@@ -14,7 +14,7 @@
 <br>
 
 ## 🖥️ Tech Stack
-- Programming language : ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+- Programming language : ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 - BigData : ![Hive](https://img.shields.io/badge/-Hive-FBAF00?style=flat&logo=Apache-Hive&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=Apache-S) ![Impala](https://img.shields.io/badge/-Impala-5B4638?style=flat&logo=Apache-Impala&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=Apache-Airflow&logoColor=white)
 - Frontend : ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 - Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
