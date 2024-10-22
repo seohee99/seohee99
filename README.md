@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=300&section=header&text=Hi👋%20I'm%20seohee&fontSize=50&animation=fadeIn&fontAlignY=30&desc=🐥Consistently%20Growing%20Developer🤓&descAlignY=51&descAlign=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=300&section=header&text=Hi👋%20I'm%20seohee&fontSize=50&animation=fadeIn&fontAlignY=30&desc=🐥Consistently%20Growing%20Developer🤓&descAlignY=51&descAlign=50) -->
 
 
 ## 🙋‍♀️ About Me
